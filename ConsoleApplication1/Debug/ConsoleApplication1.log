@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+c:\users\ali\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(34): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\ali\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\ali\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ali\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(88): warning C4101: 'musicBack': unreferenced local variable
+c:\users\ali\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(361): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\ali\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(375): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ConsoleApplication1.vcxproj -> C:\Users\ali\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
